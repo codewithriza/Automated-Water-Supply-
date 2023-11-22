@@ -1,6 +1,6 @@
 //Automatic Plant Watering System
 //Used materials are Arduino,Relay,WaterPump,Moisture Sensor
-//Created By RUZAIN MOHAMED T / class :- 3
+//Created By Riza Mohamed T
 
 int water; //random variable 
 void setup() {
